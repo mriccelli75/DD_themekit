@@ -85,7 +85,6 @@
 
 .navbar-default .navbar-nav>.active>a {
   color:#141414;
-  background-color: #ebf2ff;
   text-decoration: underline;
 }
 .navbar-default .navbar-nav>.active>a:hover {
